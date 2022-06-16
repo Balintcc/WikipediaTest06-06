@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Thu Jun 16 17:49:12 GMT 2022","Thu Jun 16 17:49:13 GMT 2022","874","","WikipediaTest","","WikipediaTest","searchTest","searchTest()",""
